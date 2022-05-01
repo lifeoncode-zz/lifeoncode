@@ -2,13 +2,12 @@
 <h2>Here's a bit about me</h2>
 
 
-- ☕ &nbsp; I love colombian coffee beans, I consume an ungodly amount of coffee.
+- ☕ &nbsp; I love colombian coffee beans.
+- I consume an ungodly amount of coffee.
+- I build 3 tier web applications using MERN stack.
 - 💀 &nbsp; I write useful scripts with Bash and Python.
-- 🤔 &nbsp; I think Git is awesome!
 - 🎓 &nbsp; I'm a software engineering student [@wethinkcode](https://wethinkcode.co.za).
-- 👽 &nbsp; I think if Aliens came to our blue marble🌍 I'd make friends with 'em.
-- ✒️ &nbsp; Pursuing Web design and development.
-- ⚫ &nbsp; Black holes freak me out, 🥺like, where do you go?
+
 
 <h3> 🛠 &nbsp;My Arsenal</h3>
 
