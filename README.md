@@ -6,7 +6,6 @@
 - I consume an ungodly amount of coffee.
 - I build 3 tier web applications using MERN stack.
 - 💀 &nbsp; I write useful scripts with Bash and Python.
-- 🎓 &nbsp; I'm a software engineering student [@wethinkcode](https://wethinkcode.co.za).
 
 
 <h3> 🛠 &nbsp;My Arsenal</h3>
