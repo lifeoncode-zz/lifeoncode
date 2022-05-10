@@ -37,6 +37,6 @@
 <a href="https://www.lifeoncode.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.lifeoncode.me-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/nduduzo-f-zondi-01a54516b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nduduzo%20F-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/nduduzo__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nduduzo__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ndu918@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-ndu918@outlook.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:nduduzo.fz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ndu918@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
