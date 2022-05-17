@@ -2,7 +2,7 @@
 <h2>Here's a bit about me</h2>
 
 
-- ☕ &nbsp;I love colombian coffee beans.
+-🫘🫘I love colombian coffee beans.
 - I consume an ungodly amount of coffee.
 - I build 3 tier web applications using MERN stack.
 - 💀 &nbsp; I write useful scripts with Bash and Python.
